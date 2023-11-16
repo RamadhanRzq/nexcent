@@ -1,0 +1,24 @@
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
+  ],
+  theme: {
+    fontSize:{
+      'Headline1' : ['64px','76px'],
+      'Headline2' : ['44px','58px'],
+      'Headline3' : ['28px','36px'],
+    },
+    colors:{
+      primary:'#4CAF4F',
+      secondary: '#263238',
+      white : '#FFFFFF',
+      shade1 :'#66BB69',
+      silver : '#F5F7FA',
+    },
+    extend: {},
+  },
+  plugins: [],
+}
+
