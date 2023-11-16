@@ -1,4 +1,4 @@
-import ic1 from "D:/Javascript/nexcent/src/assets/ic1.png";
+import ic1 from "../assets/ic1.png";
 
 function Feature() {
   return (

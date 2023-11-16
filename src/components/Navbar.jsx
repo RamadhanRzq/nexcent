@@ -1,4 +1,4 @@
-import Logo from 'D:/Javascript/nexcent/src/assets/Logo.png'
+import Logo from '../assets/Logo.png'
 
 function Navbar() {
   return (

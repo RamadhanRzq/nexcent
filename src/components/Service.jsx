@@ -1,10 +1,10 @@
-import lg1 from 'D:/Javascript/nexcent/src/assets/lg1.png'
-import lg2 from 'D:/Javascript/nexcent/src/assets/lg2.png'
-import lg3 from 'D:/Javascript/nexcent/src/assets/lg3.png'
-import lg4 from 'D:/Javascript/nexcent/src/assets/lg4.png'
-import lg5 from 'D:/Javascript/nexcent/src/assets/lg5.png'
-import lg6 from 'D:/Javascript/nexcent/src/assets/lg6.png'
-import lg7 from 'D:/Javascript/nexcent/src/assets/lg7.png'
+import lg1 from '../assets/lg1.png'
+import lg2 from '../assets/lg2.png'
+import lg3 from '../assets/lg3.png'
+import lg4 from '../assets/lg4.png'
+import lg5 from '../assets/lg5.png'
+import lg6 from '../assets/lg6.png'
+import lg7 from '../assets/lg7.png'
 
 function Service() {
   return (
