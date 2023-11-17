@@ -9,6 +9,7 @@ export default {
       'Headline1' : ['64px','76px'],
       'Headline2' : ['44px','58px'],
       'Headline3' : ['28px','36px'],
+      'Headline4' : ['20px','28px'],
     },
     colors:{
       primary:'#4CAF4F',

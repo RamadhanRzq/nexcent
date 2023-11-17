@@ -3,8 +3,6 @@ import ic5 from "../assets/ic5.png";
 import ic6 from "../assets/ic6.png";
 import ic7 from "../assets/ic7.png";
 
-import "../App.css";
-
 function Product() {
   return (
     <div className="flex m-28 mx-72">
