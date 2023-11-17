@@ -13,7 +13,7 @@ function Feature() {
         <p className="mb-12">Who is Nextcent suitable for?</p>
       </div>
       <div className="flex justify-center gap-[144px]">
-        <div className="bg-silver rounded-lg w-[350px] h-[320px]">
+        <div className="bg-silver rounded-lg w-[350px] h-[320px] shadow-xl">
           <img src={ic1} width={75} height={66} className="mx-auto mt-9" />
           <p className="text-center text-Headline3 font-medium mt-4">
             Membership <br />
@@ -26,7 +26,7 @@ function Feature() {
             membership renewals and payments
           </p>
         </div>
-        <div className="bg-silver rounded-lg w-[350px] h-[320px]">
+        <div className="bg-silver rounded-lg w-[350px] h-[320px] shadow-xl">
           <img src={ic2} width={75} height={66} className="mx-auto mt-9" />
           <p className="text-center text-Headline3 font-medium mt-4">
             National <br />
@@ -39,7 +39,7 @@ function Feature() {
             membership renewals and payments
           </p>
         </div>
-        <div className="bg-silver rounded-lg w-[350px] h-[320px]">
+        <div className="bg-silver rounded-lg w-[350px] h-[320px] shadow-xl">
           <img src={ic3} width={75} height={66} className="mx-auto mt-9" />
           <p className="text-center text-Headline3 font-medium mt-4">
             Clubs And <br />
@@ -72,7 +72,7 @@ function Feature() {
           </button>
         </div>
       </div>
-      
+
     </div>
   );
 }
