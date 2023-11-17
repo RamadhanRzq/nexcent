@@ -3,7 +3,7 @@
 export const Marketing = () => {
   return (
     <div className="flex-col justify-center items-center bg-white p-12">
-      <div className="flex-col justify-center items-center">
+      <div className="flex-col ">
         <h2 className="text-center text-Headline2 my-4 font-medium">
           Caring is the new marketing
         </h2>

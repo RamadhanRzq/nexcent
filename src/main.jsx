@@ -9,6 +9,8 @@ import Product from "./components/Product.jsx";
 import Description from "./components/Description.jsx";
 import OurTeam from "./components/OurTeam.jsx";
 import { Marketing } from "./components/Marketing.jsx";
+import { Footer } from "./components/Footer.jsx";
+import { FooterPage } from "./components/FooterPage.jsx";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
@@ -20,5 +22,7 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     <Description />
     <OurTeam />
     <Marketing />
+    <Footer/>
+    <FooterPage/>
   </React.StrictMode>
 );

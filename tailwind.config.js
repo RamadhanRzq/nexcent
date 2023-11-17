@@ -17,6 +17,7 @@ export default {
       white : '#FFFFFF',
       shade1 :'#66BB69',
       silver : '#F5F7FA',
+      input : '#89939E',
     },
     extend: {},
   },
