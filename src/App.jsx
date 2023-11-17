@@ -8,7 +8,7 @@ function App() {
       <p className='text-secondary text-Headline1 font-semibold'>Lessons and insights</p>
       <p className='text-primary text-Headline1 font-semibold'>from 8 years</p>
       <p className='mt-4'>Where to grow your business as a photographer: site or social media?</p>
-      <button className='bg-primary hover:bg-shade1 py-3 px-5 rounded-lg text-white mt-8'>Register</button>
+      <button className='bg-primary hover:bg-shade1 py-4 px-9 rounded-lg text-white mt-8'>Register</button>
       </div>
       <img src={ilus} alt='ilustration' width={391} height={407}/>
     </div>
